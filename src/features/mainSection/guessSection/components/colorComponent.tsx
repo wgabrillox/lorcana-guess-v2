@@ -1,5 +1,5 @@
-import { FormLabel } from "@mui/material";
-import { Checkbox } from "@mui/material";
+import FormLabel from "@mui/material/FormLabel";
+import Checkbox from "@mui/material/Checkbox";
 import { Option } from "../../../../types";
 import { IMAGES, colorIconBackgroundColor } from "../../../../constants";
 import {

@@ -1,4 +1,6 @@
-import { Switch, FormLabel, Box } from "@mui/material";
+import Switch from "@mui/material/Switch";
+import FormLabel from "@mui/material/FormLabel";
+import Box from "@mui/material/Box";
 import { useDispatch, useSelector } from "react-redux";
 import {
   getGuessValue,

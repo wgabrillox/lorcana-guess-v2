@@ -1,5 +1,6 @@
 import { Option, CardOptions, Card } from "../../../../types";
-import { TextField, Autocomplete } from "@mui/material";
+import TextField from "@mui/material/TextField";
+import Autocomplete from "@mui/material/Autocomplete";
 import { useDispatch, useSelector } from "react-redux";
 import {
   setGuessOptions,

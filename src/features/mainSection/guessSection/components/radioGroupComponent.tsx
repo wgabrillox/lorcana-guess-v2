@@ -1,6 +1,6 @@
-import { Radio, FormLabel } from "@mui/material";
-import { Option, CardOptions } from "../../../../types";
-import { useEffect } from "react";
+import Radio from "@mui/material/Radio";
+import FormLabel from "@mui/material/FormLabel";
+import { Option } from "../../../../types";
 import { IMAGES, colorIconBackgroundColor } from "../../../../constants";
 import {
   setGuessOptions,
