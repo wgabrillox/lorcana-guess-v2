@@ -295,8 +295,17 @@
   .top-\[23px\] {
     top: 23px;
   }
+  .top-\[117px\] {
+    top: 117px;
+  }
   .top-\[120px\] {
     top: 120px;
+  }
+  .top-\[141px\] {
+    top: 141px;
+  }
+  .top-\[171px\] {
+    top: 171px;
   }
   .top-\[180px\] {
     top: 180px;
@@ -372,6 +381,9 @@
   }
   .bottom-\[120px\] {
     bottom: 120px;
+  }
+  .bottom-\[141px\] {
+    bottom: 141px;
   }
   .left-0 {
     left: calc(var(--spacing) * 0);
@@ -2355,6 +2367,16 @@
   .sm\:top-\[23px\] {
     @media (width >= 40rem) {
       top: 23px;
+    }
+  }
+  .sm\:top-\[130px\] {
+    @media (width >= 40rem) {
+      top: 130px;
+    }
+  }
+  .sm\:top-\[162px\] {
+    @media (width >= 40rem) {
+      top: 162px;
     }
   }
   .sm\:top-\[179px\] {

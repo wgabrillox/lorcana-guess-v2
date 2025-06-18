@@ -13,8 +13,7 @@ export const CharStatSection = (props: Props) => {
     <div
       className={`absolute z-4 ${
         isLocation
-          ? // ? "top-[120px] sm:top-[179px] w-full"
-            "bottom-[83px] sm:bottom-[130px] w-full"
+          ? "top-[117px] sm:top-[162px] w-full"
           : "top-[182px] sm:top-[267px]"
       }`}
     >
