@@ -298,6 +298,9 @@
   .top-\[117px\] {
     top: 117px;
   }
+  .top-\[119px\] {
+    top: 119px;
+  }
   .top-\[120px\] {
     top: 120px;
   }
@@ -2377,6 +2380,11 @@
   .sm\:top-\[162px\] {
     @media (width >= 40rem) {
       top: 162px;
+    }
+  }
+  .sm\:top-\[164px\] {
+    @media (width >= 40rem) {
+      top: 164px;
     }
   }
   .sm\:top-\[179px\] {
